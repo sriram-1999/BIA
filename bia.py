@@ -2,8 +2,9 @@
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww25400\viewh13600\viewkind0
+\paperw11900\paperh16840\margl1440\margr1440\vieww25400\viewh13540\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 inp=input(\'93ENTER YOUR NAME\'94)\
-print(\'93MY FIRST PROGRAM\'94,inp)}
+\f0\fs24 \cf0 x=input("ENTER YOUR NAME:")\
+\
+print("Hello",x)}
